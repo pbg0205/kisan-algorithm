@@ -1,0 +1,16 @@
+# '21.06.29
+class Solution:
+    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
+        stack = []
+        result = [0]*len(temperatures)
+        
+        for idx, T in enumerate(temperatures) :
+            
+            while stack and T > temperatures[stack[-1]]:
+                last = stack.pop()
+                result[last] = idx-last
+            stack.append(idx)
+            
+        return result
+        
+        
