@@ -1,0 +1,19 @@
+"""
+21.07.11
+Runtime: 52 ms, faster than 91.85% of Python3 online submissions for Longest Substring Without Repeating Characters.
+Memory Usage: 14.3 MB, less than 79.07% of Python3 online submissions for Longest Substring Without Repeating Characters.
+"""
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        max_len = left = 0
+        used_map = {} # for search O(1)
+    
+        for right, char in enumerate(s):
+            if char in used_map and left <= used_map[char]: 
+                left = used_map[char] + 1
+            else:
+                max_len = max(max_len, right - left+1)
+            used_map[char] = right
+            
+        return max_len
