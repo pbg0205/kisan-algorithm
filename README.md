@@ -41,5 +41,18 @@
     - 3) 전화번호 문자조합| https://leetcode.com/problems/letter-combinations-of-a-phone-number/
     - 4) 순열 | https://leetcode.com/problems/permutations/
     - 5) 조합 | https://leetcode.com/problems/combinations/
-    
-    
+
+---
+
+### 4 week: 문자열 조작
+
+```
+- 1) 유효한 팰린드롬 | https://leetcode.com/problems/valid-palindrome/
+- 2) 문자열 뒤집기 | https://leetcode.com/problems/reverse-string/
+- 3) 로그 파일 재정렬 | https://leetcode.com/problems/reorder-data-in-log-files/
+- 4) 가장 흔한 단어 | https://leetcode.com/problems/most-common-word/submissions/
+- 5) 그룹 애넘그램 | https://leetcode.com/problems/group-anagrams/
+```
+
+---
+
