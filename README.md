@@ -56,3 +56,15 @@
 
 ---
 
+---
+### 5 week: DFS 2탄 
+
+```
+- 1) 코스 스케쥴 | https://leetcode.com/problems/course-schedule/
+- 2) 단어변환 | https://programmers.co.kr/learn/courses/30/lessons/43163
+- 3) 네트워크 | https://programmers.co.kr/learn/courses/30/lessons/43162
+- 4) 타겟넘버 | https://programmers.co.kr/learn/courses/30/lessons/43165
+```
+
+---
+
