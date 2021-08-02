@@ -68,3 +68,12 @@
 
 ---
 
+### 6week: 다익스트라 (Dijkstra)
+
+```
+- 1) 네트워크 딜레이 타임 |https://leetcode.com/problems/network-delay-time/
+- 2) K 경유지 내 가장 저렴한 항공권 | https://leetcode.com/problems/cheapest-flights-within-k-stops/
+- 3) 배달 | https://programmers.co.kr/learn/courses/30/lessons/12978
+- 4) 가장 먼 노드(level3 문제 : 선택적으로 풀기) | https://programmers.co.kr/learn/courses/30/lessons/49189
+```
+
