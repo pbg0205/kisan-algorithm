@@ -81,11 +81,8 @@
 
 ### 7week: 트리 (Tree)
 
-```
 - 1) [이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
 - 2) [이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree/)
 - 3) [가장 긴 동일 값의 경로](https://leetcode.com/problems/longest-univalue-path/)
 - 4) [프로그래머스 : 길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
-[Google](http://www.google.co.kr)
-```
 
