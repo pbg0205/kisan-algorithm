@@ -95,3 +95,11 @@
 > 3. [이진 트리 직렬화&역직렬화](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 > 4. [균형 이진 트리](https://leetcode.com/problems/balanced-binary-tree/)
 
+---
+
+### 9week: 트리(Tree) - 3탄
+
+> 1. [최소 높이 트리](https://leetcode.com/problems/minimum-height-trees/)
+> 2. [정렬된 배열의 이진 탐색 트리 변환](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+> 3. [이진 탐색 트리를 더 큰 수 합계 트리로](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+> 4. [이진 탐색 트리 합의 범위](https://leetcode.com/problems/range-sum-of-bst/)
